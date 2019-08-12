@@ -1,7 +1,7 @@
-Esto es un titulo
+﻿Esto es un titulo
 
 Mi nombre es Jaime Diaz nací en Perú.
 
 Tengo 31 años.
 
-Y esto de arriba es la foto de unas Suricatas.
+Hoy hablaremos de su vida.
