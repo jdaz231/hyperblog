@@ -1,8 +1,7 @@
 Esto es un titulo
 
-Esto es un titulo centrado
+Mi nombre es Jaime Diaz nací en Perú.
 
-Aqu  va un pirrafo con negrita, cursiva, subrayado y colores.
-
+Tengo 31 años.
 
 Y esto de arriba es la foto de unas Suricatas.
