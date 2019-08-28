@@ -9,5 +9,6 @@ Blog de Jaime
 - blabla
 - blabla
 - Creado por Jaime
+- Incluye ejemplos Windows, Linux y Mac
 
 Lee mi readme **"Es un chiste"**    
