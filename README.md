@@ -9,5 +9,10 @@ Blog de Jaime
 - blabla
 - blabla
 - Creado por Jaime
+<<<<<<< HEAD
+=======
+- Incluye ejemplos Windows, Linux y Mac
+- Hecho para todas las edades
+>>>>>>> readme-mejorado
 
-Lee mi readme **"Es un chiste"**
+Lee mi readme **"Es un chiste"**    
